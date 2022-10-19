@@ -17,3 +17,5 @@ The purpose of this analysis was to analyze Amazon reviews written by unpaid Ama
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ### Summary
+
+Is there any positive bias?
