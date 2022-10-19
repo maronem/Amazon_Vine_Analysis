@@ -8,13 +8,15 @@ The purpose of this analysis was to analyze Amazon reviews written by unpaid Ama
 
 1. How many Vine reviews and non-Vine reviews were there
 
-* 
+* Within our video game review dataset, there were 94 reviews from Vine members and 40,471 non-Vine members.
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 * There were only 48 Vine member 5-star reviews, while there were 15,663 5-star non-Vine reviews in our dataset. 
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+* Of stricly the Vine reviews, 33.80% were 5-star reviews, while of all the non-Vine reviews, 27.90% were 5-stars. 
 
 ### Summary
 
