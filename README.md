@@ -8,6 +8,8 @@ The purpose of this analysis was to analyze Amazon reviews written by unpaid Ama
 
 Below is a preview of our initial dataset. All available datasets are constructed with the same data categories and layout. As seen we chose to analyze video game reviews as the product_category is "Video Games". From this data we were able to assess potential review bias between Vine and non-Vine members.
 
+Starting Dataset
+:---------------:
 ![image](https://user-images.githubusercontent.com/108199140/196826289-79af5410-4c42-47d1-ac83-779d0e61c034.png)
 
 Following cutting down our dataset to keep relevant categories, we filtered the data for reviews that had a minimum of 20 votes to eliminate any non-important reviews and following this only used reviews that were considered "helpful". 
