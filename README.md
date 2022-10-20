@@ -12,14 +12,17 @@ Starting Dataset
 :---------------:
 ![image](https://user-images.githubusercontent.com/108199140/196826289-79af5410-4c42-47d1-ac83-779d0e61c034.png)
 
-Following cutting down our dataset to keep relevant categories, we filtered the data for reviews that had a minimum of 20 votes to eliminate any non-important reviews and following this only used reviews that were considered "helpful". 
+Following cutting down our dataset to keep relevant categories, we filtered the data for reviews that had a minimum of 20 votes to eliminate any non-important reviews and following this only used reviews that were considered "helpful". A review was considered "helpful" if it had greater than 50% of its total votes being helpful votes.
 
 Reviews with >20 votes      |     Helpful Reviews
 :--------------------------:|:-----------------------------:
 ![image](https://user-images.githubusercontent.com/108199140/196827167-5f346a72-dc2f-4511-9b49-30f898688989.png) | ![image](https://user-images.githubusercontent.com/108199140/196827323-426edcbb-0c09-4865-aeef-c4e752776ca9.png)
 
-A review was considered "helpful" if it had greater than 50% of its total votes being helpful votes. We then split our dataset into two seperate datasets, one strictly cotnainging reviews from Vine members and the other with reviews from non-Vine members. These cleaned datasets were used to investigate the questions below.
+We then split our dataset into two seperate datasets, one strictly cotnainging reviews from Vine members and the other with reviews from non-Vine members. These cleaned datasets were used to investigate the questions below.
 
+Reviews with >20 votes      |     Helpful Reviews
+:--------------------------:|:-----------------------------:
+![image](https://user-images.githubusercontent.com/108199140/196827478-6770a0e6-fcdf-484a-b2b8-492ebaf9e27c.png) | ![image](https://user-images.githubusercontent.com/108199140/196827499-3610fed8-532d-4d60-b9ae-1e6a4ce3331d.png)
 
 1. How many Vine reviews and non-Vine reviews were there
 
