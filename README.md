@@ -40,4 +40,4 @@ Reviews with >20 votes      |     Helpful Reviews
 
 ## Summary
 
-Is there any positive bias?
+From our analysis we determined that there is a positivity bias for Video Games in the Vine program as over 50% of Vine reviews were 5 star reviews, while only 38.7% of non-Vine reviews were 5 stars, a 12.36% difference. Although we only investigated this bias in one dataset and this could be different for other product categories, for video games, we determined there is a positivity bias.
