@@ -14,9 +14,7 @@ Following cutting down our dataset to keep relevant categories, we filtered the 
 
 Reviews with >20 votes      |     Helpful Reviews
 :--------------------------:|:-----------------------------:
-![image](https://user-images.githubusercontent.com/108199140/196827167-5f346a72-dc2f-4511-9b49-30f898688989.png) | ![image](https://user-images.githubusercontent.com/108199140/196827245-f63e72e3-79c8-497a-87de-78c563c634cb.png)
-
-
+![image](https://user-images.githubusercontent.com/108199140/196827167-5f346a72-dc2f-4511-9b49-30f898688989.png) | ![image](https://user-images.githubusercontent.com/108199140/196827323-426edcbb-0c09-4865-aeef-c4e752776ca9.png)
 
 A review was considered "helpful" if it had greater than 50% of its total votes being helpful votes. We then split our dataset into two seperate datasets, one strictly cotnainging reviews from Vine members and the other with reviews from non-Vine members. These cleaned datasets were used to investigate the questions below.
 
