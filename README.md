@@ -4,7 +4,7 @@
 
 The purpose of this analysis was to analyze Amazon reviews written by unpaid Amazon users or Amazon Vine Program members and determine if there is any bias toward positive reviews from Vine members. We performed our analysis on a dataset of Amazon video game reviews from the US which we accessed through Amazon Web Service (AWS) S3. We used the Apache Spark engine along with the PySpark interface to extract and transform the dataset and then load our data into pgAdmin through an AWS RDS instance. 
 
-### Analysis
+## Analysis
 
 Below is a preview of our initial dataset. All available datasets are constructed with the same data categories and layout. As seen we chose to analyze video game reviews as the product_category is "Video Games". From this data we were able to assess potential review bias between Vine and non-Vine members.
 
@@ -24,6 +24,8 @@ Reviews with >20 votes      |     Helpful Reviews
 :--------------------------:|:-----------------------------:
 ![image](https://user-images.githubusercontent.com/108199140/196827478-6770a0e6-fcdf-484a-b2b8-492ebaf9e27c.png) | ![image](https://user-images.githubusercontent.com/108199140/196827499-3610fed8-532d-4d60-b9ae-1e6a4ce3331d.png)
 
+### Analysis Questions
+
 1. How many Vine reviews and non-Vine reviews were there
 
 * Within our video game review dataset, there were 94 reviews from Vine members and 40,471 non-Vine members.
@@ -36,6 +38,6 @@ Reviews with >20 votes      |     Helpful Reviews
 
 * Of stricly the Vine reviews, 51.06% were 5-star reviews, while of all the non-Vine reviews, 38.70% were 5-stars. 
 
-### Summary
+## Summary
 
 Is there any positive bias?
